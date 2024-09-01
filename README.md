@@ -5,4 +5,4 @@
 
 ## Ejecución en dispositivo físico
 ![imagen_2](vista_ejecucion.png)
-[![video_1](vista_ejecucion.png)](https://photos.app.goo.gl/vutrDCcoikMDb3q49)
+[Ver video de ejecución](https://photos.app.goo.gl/vutrDCcoikMDb3q49)
