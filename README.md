@@ -7,4 +7,4 @@
 ![imagen_2](vista_ejecucion.png)
 
 ### Video de ejecución
-[Ingresa aqui para ver el video](https://photos.app.goo.gl/vutrDCcoikMDb3q49)
+[Ingresa aquí para ver el video](https://photos.app.goo.gl/vutrDCcoikMDb3q49)
